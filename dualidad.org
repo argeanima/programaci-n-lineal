@@ -33,3 +33,6 @@ x_{1},x_{2} &\geq 0 \\
 
 
 * Teoremas
+
+  Demostraremos que el mínimo del problema dual es igual al máximo de
+  problema primitivo.
