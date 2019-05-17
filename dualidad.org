@@ -2,6 +2,23 @@
 #+author: Uriel Alejandro Nolasco Hernández
 #+date: 17 de mayo de 2019
 
-*Introducción
-*Ejemplos
-*Teoremas
+* Introducción 
+
+La dualidad es una manera de asociar cierto problema
+matemático a otro problema matemático.
+
+* Ejemplos
+Considere el siguiente problema
+
+\begin{equation*}
+\begin{aligned}
+\text{Maximizar} \quad &2x_{1}+3x_{2}\\
+\text{sujeto a} \quad &
+\begin{aligned}
+4x_{1}+8x_{2} &\leq 12\\
+2x_{1}+x_{2} &\leq 3\\
+x_{1},x_{2} &\geq 0 \\
+\end{aligned}
+\end{aligned}
+\end{equation*}
+* Teoremas
