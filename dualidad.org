@@ -17,8 +17,19 @@ Considere el siguiente problema
 \begin{aligned}
 4x_{1}+8x_{2} &\leq 12\\
 2x_{1}+x_{2} &\leq 3\\
+3x_{1}+2x_{2} &\leq 4\\
 x_{1},x_{2} &\geq 0 \\
 \end{aligned}
 \end{aligned}
 \end{equation*}
+
+- Podemos observar que bajo las restricciones, la función objetivo es
+  menor que 12 ya que:
+  \begin{equation}
+  2x_{1}+3x_{2} \leq 4x_{1}+8_{2}\leq 12.
+  \end{equation}
+- Siguiente paso ...
+- Y el que sigue ...
+
+
 * Teoremas
